@@ -1,0 +1,39 @@
+/* body*/
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background: black;
+}
+
+/* navbar*/
+
+.navbar-brand{
+   width: 50px;
+   display: flex;
+   
+}
+
+.Logo-info{
+    
+
+}
+
+/*section*/
+
+#Destacados .imagen-top{
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* pie de pagina
+
+.footer-text{
+    margin-left: 200px;
+}
+
+.icons{
+    margin-left: 500px;
+}
+*/
